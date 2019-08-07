@@ -313,4 +313,3 @@ const planetsWithOnlyE = planets.filter(planet => {
 console.log(planetsWithOnlyE)
 
 
-// ------ Practice: Spam, Spam, Spam, Spam ------
